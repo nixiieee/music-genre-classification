@@ -36,9 +36,9 @@ def handle_file(message):
             new_file.write(downloaded_file)
 
         if os.path.exists(src):
-            print("File saved successfully.")
+            print(f"File {src} saved successfully.")
         else:
-            print("File not saved.")
+            print(f"File {src} cannot be found.")
             os._exit(0)
 
         prediction = predict_file(src)
