@@ -1,6 +1,6 @@
 # music-genre-classification
 
-This is a final project for ML Basics course in HSE SPb. [Presentation link](www.google.com).
+This is a final project for ML Basics course in HSE SPb. [Presentation link](https://github.com/nixiieee/music-genre-classification/blob/main/presentation.pdf).
 
 ## Dataset
 [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/) from Kaggle was used.
